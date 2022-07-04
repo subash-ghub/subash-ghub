@@ -1,4 +1,4 @@
-### Hi there I am Subash Thangam K👋
+### Halo,I'm Subash Thangam K👋
 
 - 🔭 I’m currently studying in Sri Eshwar College of Engineering.
 - 🌱 I’m currently learning Computer and Communication Engineering.
