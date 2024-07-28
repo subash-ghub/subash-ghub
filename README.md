@@ -3,7 +3,7 @@
 - 🔭 I’m currently studying in Sri Eshwar College of Engineering.
 - 🌱 I’m currently learning Computer and Communication Engineering.
 - 🤔 I’m looking for jobs in Full Stack Development.
-- 💬 Ask me about Salesforce and Frontend Technlogies.
+- 💬 Ask me about Salesforce and Frontend Technologies.
 - 📫 How to reach me: Instagram - @b_a_s_h_1_1 
                       / Twitter   - @ThangamSubash
 - 😄 Pronouns: He/His
