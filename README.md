@@ -9,12 +9,14 @@ Greeting to my GITHUB
 
 ## Connect with Me through:
 
-[<img align="left" alt="Kirk Watson | LinkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
-[<img align="left" alt="Kirk Watson | LinkedIn" width="30px" src="https://img.freepik.com/premium-vector/purple-gradiend-social-media-logo_197792-1883.jpg" />][instagram]
+[<img align="left" alt="Subash | LinkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+[<img align="left" alt="Subash | Instagram" width="35px" src="https://img.freepik.com/premium-vector/purple-gradiend-social-media-logo_197792-1883.jpg" />][instagram]
+[<img align="left" alt="Subash | LinkedIn" width="30px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />][Twitter]
 
 
 [linkedin]: https://www.linkedin.com/in/subashthangamk/
 [instagram]: https://instagram.com/subazz_24
+[Twitter]: https://twitter.com/@ThangamSubash
 <br>
 
 
@@ -30,6 +32,7 @@ Greeting to my GITHUB
 <img align="left" alt="github" width="50px"src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"/>
 <img align="left" alt="React" width="50px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" />
 <img align="left" alt="VS Code" width="50px"src="https://github.com/gilbarbara/logos/blob/main/logos/visual-studio-code.svg"/>
+<img align="left" alt="Wordpress" width="50px"src="https://github.com/gilbarbara/logos/blob/main/logos/wordpress-icon.svg"/>
 <br/>
 <br>
 
