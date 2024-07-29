@@ -1,6 +1,6 @@
 ## Halo,I'm Subash Thangam K👋
 
-Greeting to my GITHUB
+Welcome to my GITHUB
 
 * I am an undergraduate student .
 * Passionate in working on **Salesforce and Web Technologies**.
