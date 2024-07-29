@@ -3,7 +3,7 @@
 Greeting to my GITHUB
 
 * I am an undergraduate student .
-* Passionate in working on **web-application**, **mobile Application** Development. with knowledge on **cloud computing**.
+* Passionate in working on **Salesforce and Web Technologies**.
 *  Check my portfolio on [Click here](https://subash-ghub.github.io/subashthangam.k.github.io/) 
 
 
@@ -14,33 +14,35 @@ Greeting to my GITHUB
 
 
 [linkedin]: https://www.linkedin.com/in/subashthangamk/
-[instagram]: https://www.instagram.com/
+[instagram]: https://instagram.com/subazz_24
 <br>
+
 
 ## Tools and Language:
 
+<img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Salesforce_Marketing" width="60px" src="https://github.com/gilbarbara/logos/blob/main/logos/salesforce.svg" />
+<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"/>
+<img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"/>
+<img align="left" alt="Javascript" width="50px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"/> 
+<img align="left" alt="mysql" width="50px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" />
+<img align="left" alt="Figma" width="50px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg"/>
+<img align="left" alt="github" width="50px"src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"/>
+<img align="left" alt="React" width="50px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" />
+<img align="left" alt="VS Code" width="50px"src="https://github.com/gilbarbara/logos/blob/main/logos/visual-studio-code.svg"/>
+<br/>
+<br>
 
-<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Salesforce" width="40px" src="https://github.com/muenzpraeger/salesforce-logo/blob/master/logo_salesforce.png" />
-<img align="left" alt="Flask" width="40px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" />
-<img align="left" alt="Fastapi" width="40px" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" />
-<img align="left" alt="Django" width="40px" src="https://avatars.githubusercontent.com/u/27804?s=280&v=4" />
-<img align="left" alt="mongoDB" width="40px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg"/>
-<img align="left" alt="mysql" width="40px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg"/>
-<img align="left" alt="redis" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNxNWo4G1zKErjVYtK94Tt71RKaoItdTwxPDdrjMb7XQ&s"/>
-<img align="left" alt="dynamodb" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSALqMiLoALcPj9eXBll-inQYY6fcC5ZvU7w&usqp=CAU"/>
-<img align="left" alt="postman" width="40px" src="https://cdn.worldvectorlogo.com/logos/postman.svg"/>
-<img align="left" alt="github" width="40px"src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"/>
-<img align="left" alt="apachejmeter" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO6Zg_ZL3eaSIMCEXcrkGdYSDzkQOwHK6g_aaemlLajA&s"/>
-<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" />
-<img align="left" alt="TailwindCSS" width="40px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" />
-<img align="left" alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" />
-<img align="left" alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg"/>
-<img align="left" alt="AWS" width="40px" src="https://avatars.githubusercontent.com/u/2232217" />
-<img align="left" alt="Docker" width="40px" src="https://w7.pngwing.com/pngs/219/411/png-transparent-docker-logo-kubernetes-microservices-cloud-computing-dockers-logo-text-logo-cloud-computing-thumbnail.png" />
-<br/>
-<br/>
-<br/>
+## Management and other Tools:
+<img align="left" alt="Jira" width="50px" src="https://github.com/gilbarbara/logos/blob/main/logos/jira.svg" />
+<img align="left" alt="Slack" width="100px" src="https://github.com/gilbarbara/logos/blob/main/logos/slack.svg" />
+<img align="left" alt="Power BI" width="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/microsoft-power-bi.svg" />
+<img align="left" alt="Blender" width="60px" src="https://github.com/gilbarbara/logos/blob/main/logos/blender.svg" />
+<img align="left" alt="Power BI" width="160px" src="https://github.com/gilbarbara/logos/blob/main/logos/todoist.svg" />
+
 <div>
+<br/>
+<br/>
+<br/>
 
 </div>
