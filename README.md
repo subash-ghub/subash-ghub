@@ -21,7 +21,7 @@ Greeting to my GITHUB
 
 
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Salesforce" width="40px" src="https://www.bing.com/ck/a?!&&p=2b3f6f5e82359271JmltdHM9MTcyMjEyNDgwMCZpZ3VpZD0wMjc1NTcxYy1hMGNmLTZjMTEtMDRkZS00M2Q3YTE2OTZkMWYmaW5zaWQ9NTY1Ng&ptn=3&ver=2&hsh=3&fclid=0275571c-a0cf-6c11-04de-43d7a1696d1f&u=a1L2ltYWdlcy9zZWFyY2g_cT1zYWxlc2Zyb2NlJTIwbG9nbyZGT1JNPUlRRlJCQSZpZD03NEZBMkQwQjIxOERBN0Q4QTc3MTI3MjQwQ0VCN0I4M0RDQTlDNEE5&ntb=1" />
+<img align="left" alt="Salesforce" width="40px" src="https://github.com/muenzpraeger/salesforce-logo/blob/master/logo_salesforce.png" />
 <img align="left" alt="Flask" width="40px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" />
 <img align="left" alt="Fastapi" width="40px" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" />
 <img align="left" alt="Django" width="40px" src="https://avatars.githubusercontent.com/u/27804?s=280&v=4" />
