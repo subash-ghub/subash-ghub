@@ -3,7 +3,7 @@
 Welcome to my GITHUB
 
 * I am an undergraduate student .
-* Passionate in working on **Salesforce and Web Technologies**.
+* Passionate in working on **Salesforce Web Technologies and Human Resources**.
 *  Check my portfolio on [Click here](https://subash-ghub.github.io/subashthangam.k.github.io/) 
 
 
