@@ -21,7 +21,7 @@ Greeting to my GITHUB
 
 
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" />
+<img align="left" alt="Salesforce" width="40px" src="$ component install logo/salesforce" />
 <img align="left" alt="Flask" width="40px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" />
 <img align="left" alt="Fastapi" width="40px" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" />
 <img align="left" alt="Django" width="40px" src="https://avatars.githubusercontent.com/u/27804?s=280&v=4" />
