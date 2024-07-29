@@ -39,7 +39,7 @@ Welcome to my GITHUB
 
 ## Management and other Tools:
 <img align="left" alt="Jira" width="50px" src="https://github.com/gilbarbara/logos/blob/main/logos/jira.svg" />
-<img align="left" alt="Slack" width="100px" src="https://github.com/gilbarbara/logos/blob/main/logos/slack.svg" />
+<img align="left" alt="Slack" width="120px" src="https://github.com/gilbarbara/logos/blob/main/logos/slack.svg" />
 <img align="left" alt="Power BI" width="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/microsoft-power-bi.svg" />
 <img align="left" alt="Blender" width="60px" src="https://github.com/gilbarbara/logos/blob/main/logos/blender.svg" />
 <img align="left" alt="Power BI" width="160px" src="https://github.com/gilbarbara/logos/blob/main/logos/todoist.svg" />
