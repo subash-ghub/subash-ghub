@@ -1,6 +1,6 @@
 ## Halo,I'm Subash Thangam K👋
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/22448559/137613385-2ebbef8f-ca0a-4781-b0c1-a2ba145d8194.gif" height="200" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/22448559/137613385-2ebbef8f-ca0a-4781-b0c1-a2ba145d8194.gif" height="180" />
 
 
 Welcome to my GITHUB
