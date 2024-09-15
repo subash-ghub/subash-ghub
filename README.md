@@ -13,10 +13,10 @@ Welcome to my GITHUB
 ## Connect with Me through:
 
 <a href="https://www.linkedin.com/in/subashthangamk/" target="_blank">
-    <img alt="subash-ghub | linkedin" src="https://user-images.githubusercontent.com/22448559/137614008-18f96cfd-b2c4-4066-9991-f605c978f9d9.png" width="60"/>
+    <img alt="subash-ghub | linkedin" src="https://user-images.githubusercontent.com/22448559/137614008-18f96cfd-b2c4-4066-9991-f605c978f9d9.png" width="70"/>
   </a> &nbsp;&nbsp;
  <a href="mailto:subashthangam.k@gmail.com">
-    <img alt="subash-ghub | Gmail" width="60px" src="https://user-images.githubusercontent.com/22448559/137614003-749c6718-b38d-4d6f-9cb2-b01a1781b144.png" />
+    <img alt="subash-ghub | Gmail" width="70px" src="https://user-images.githubusercontent.com/22448559/137614003-749c6718-b38d-4d6f-9cb2-b01a1781b144.png" />
   </a>
 <br>
 
