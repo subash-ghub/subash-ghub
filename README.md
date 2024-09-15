@@ -12,15 +12,12 @@ Welcome to my GITHUB
 
 ## Connect with Me through:
 
-[<img align="left" alt="Subash | LinkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
-[<img align="left" alt="Subash | Instagram" width="35px" src="https://img.freepik.com/premium-vector/purple-gradiend-social-media-logo_197792-1883.jpg" />][instagram]
-[<img align="left" alt="Subash | Twitter" width="30px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />][Twitter]
-[<img align="left" alt="Subash | Mail" width="39px" src="https://github.com/Ishaan28malik/react-gmail-logo/blob/master/src/Assets/gmail.png" />][Mail]
-
-[linkedin]: https://www.linkedin.com/in/subashthangamk/
-[instagram]: https://instagram.com/subazz_24
-[Twitter]: https://twitter.com/@ThangamSubash
-[Mail]: subashthangam.k@gmail.com
+<a href="https://www.linkedin.com/in/subashthangamk/" target="_blank">
+    <img alt="subash-ghub | linkedin" src="https://user-images.githubusercontent.com/22448559/137614008-18f96cfd-b2c4-4066-9991-f605c978f9d9.png" width="80"/>
+  </a> &nbsp;&nbsp;
+ <a href="mailto:subashthangam.k@gmail.com">
+    <img alt="subash-ghub | Gmail" width="80px" src="https://user-images.githubusercontent.com/22448559/137614003-749c6718-b38d-4d6f-9cb2-b01a1781b144.png" />
+  </a>
 <br>
 
 
