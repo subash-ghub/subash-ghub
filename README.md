@@ -24,6 +24,7 @@ Welcome to my GITHUB
 ## Tools and Language:
 
 <img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="R Programming" width="50px" src="https://github.com/gilbarbara/logos/blob/main/logos/r-lang.svg" />
 <img align="left" alt="Salesforce_Marketing" width="60px" src="https://github.com/gilbarbara/logos/blob/main/logos/salesforce.svg" />
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"/>
 <img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"/>
@@ -37,12 +38,22 @@ Welcome to my GITHUB
 <br/>
 <br>
 
+## Data Management Tools:
+
+<img align="left" alt="Power BI" width="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/microsoft-power-bi.svg" />
+<img align="left" alt="Juypter Notebook" width="60px" src="https://github.com/gilbarbara/logos/blob/main/logos/jupyter.svg" />
+<img align="left" alt="Numpy" width="50px" src="https://github.com/gilbarbara/logos/blob/main/logos/numpy.svg" />
+<img align="left" alt="Pandas" width="35px" src="https://github.com/gilbarbara/logos/blob/main/logos/pandas-icon.svg" />
+<img align="left" alt="Matplotlib" width="55px" src="https://github.com/gilbarbara/logos/blob/main/logos/matplotlib-icon.svg" />
+<img align="left" alt="Seaborn" width="55px" src="https://github.com/gilbarbara/logos/blob/main/logos/seaborn-icon.svg" />
+<br/>
+<br>
+
 ## Management and other Tools:
 <img align="left" alt="Jira" width="50px" src="https://github.com/gilbarbara/logos/blob/main/logos/jira.svg" />
 <img align="left" alt="Slack" width="120px" src="https://github.com/gilbarbara/logos/blob/main/logos/slack.svg" />
-<img align="left" alt="Power BI" width="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/microsoft-power-bi.svg" />
 <img align="left" alt="Blender" width="60px" src="https://github.com/gilbarbara/logos/blob/main/logos/blender.svg" />
-<img align="left" alt="Power BI" width="160px" src="https://github.com/gilbarbara/logos/blob/main/logos/todoist.svg" />
+<img align="left" alt="ToDoList" width="160px" src="https://github.com/gilbarbara/logos/blob/main/logos/todoist.svg" />
 
 <div>
 <br/>
