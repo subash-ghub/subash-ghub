@@ -58,9 +58,10 @@ Welcome to my GITHUB
 ## Management and other Tools:
 <img align="left" alt="Jira" width="50px" src="https://github.com/gilbarbara/logos/blob/main/logos/jira.svg" />
 <img align="left" alt="Slack" width="120px" src="https://github.com/gilbarbara/logos/blob/main/logos/slack.svg" />
-<img align="left" alt="Blender" width="60px" src="https://github.com/gilbarbara/logos/blob/main/logos/blender.svg" />
+<img align="left" alt="Genesys Cloud" width="190px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv2C3ySaqDlIbuvZXiEL2qnNaqA9-wMOBnKA&s" />
+<img align="left" alt="Blender" width="50px" src="https://github.com/gilbarbara/logos/blob/main/logos/blender.svg" />
 <img align="left" alt="ToDoList" width="160px" src="https://github.com/gilbarbara/logos/blob/main/logos/todoist.svg" />
-<img align="left" alt="ToDoList" width="160px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/VirusTotal_logo.svg/1280px-VirusTotal_logo.svg.png" 
+<img align="left" alt="VT" width="160px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/VirusTotal_logo.svg/1280px-VirusTotal_logo.svg.png" 
     
 <div>
 <br/>
