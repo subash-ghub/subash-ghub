@@ -20,6 +20,8 @@ Welcome to my GITHUB
   </a>
 <br>
 
+## Endpoints Tools:
+<img align="left" alt="Python" width="50px" src="https://media.trustradius.com/vendor-logos/92/Kq/CI2XXBBK4S4E.JPEG" />
 
 ## Tools and Language:
 
