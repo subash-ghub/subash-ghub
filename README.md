@@ -6,7 +6,7 @@
 Welcome to my GITHUB
 
 * I am an undergraduate student .
-* Passionate in working on **Salesforce, Web Technologies and Human Resources**.
+* Passionate in working on **Endpoint Products in cybersecurity**.
 *  Check my portfolio on [Click here](https://subash-ghub.github.io/subashthangam.k.github.io/) 
 
 
