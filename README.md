@@ -23,7 +23,9 @@ Welcome to my GITHUB
 ## Endpoints Tools:
 <img align="left" alt="Python" width="50px" src="https://media.trustradius.com/vendor-logos/92/Kq/CI2XXBBK4S4E.JPEG" />
 
+<br/>
 <br>
+
 ## Tools and Language:
 
 <img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
