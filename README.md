@@ -5,7 +5,7 @@
 
 Welcome to my GITHUB
 
-* I am an Endpoint security Engineer .
+* I am an Endpoint security Engineer at Trellix.
 * Passionate in working on **Endpoint Products in cybersecurity**.
 *  Check my portfolio on [Click here](https://subash-ghub.github.io/subashthangam.k.github.io/) 
 
