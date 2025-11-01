@@ -21,8 +21,9 @@ Welcome to my GITHUB
 <br>
 
 ## Endpoints Tools:
-<img align="left" alt="Python" width="50px" src="https://media.trustradius.com/vendor-logos/92/Kq/CI2XXBBK4S4E.JPEG" />
-
+<img align="left" alt="Trellix_ENS" width="65px" src="https://media.trustradius.com/vendor-logos/92/Kq/CI2XXBBK4S4E.JPEG" />
+<img align="left" alt="FireEye" width="60px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR2xjVySTWhVPCVoPIp9RH4ePu7_3aC3hFuQ&s" />
+<img align="left" alt="Mcafee" width="72px" src="https://viz.net/wp-content/uploads/2022/02/BZ-MV1ECE-AA-BA.jpg" />
 <br/>
 <br>
 
@@ -59,7 +60,8 @@ Welcome to my GITHUB
 <img align="left" alt="Slack" width="120px" src="https://github.com/gilbarbara/logos/blob/main/logos/slack.svg" />
 <img align="left" alt="Blender" width="60px" src="https://github.com/gilbarbara/logos/blob/main/logos/blender.svg" />
 <img align="left" alt="ToDoList" width="160px" src="https://github.com/gilbarbara/logos/blob/main/logos/todoist.svg" />
-
+<img align="left" alt="ToDoList" width="160px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/VirusTotal_logo.svg/1280px-VirusTotal_logo.svg.png" 
+    
 <div>
 <br/>
 <br/>
