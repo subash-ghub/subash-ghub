@@ -26,6 +26,8 @@ Welcome to my GITHUB
 <img align="left" alt="Mcafee" width="72px" src="https://viz.net/wp-content/uploads/2022/02/BZ-MV1ECE-AA-BA.jpg" />
 <br/>
 <br>
+<br/>
+<br>
 
 ## Tools and Language:
 
@@ -44,6 +46,9 @@ Welcome to my GITHUB
 <br/>
 <br>
 
+<br/>
+<br>
+
 ## Data Management Tools:
 
 <img align="left" alt="Power BI" width="40px" src="https://github.com/gilbarbara/logos/blob/main/logos/microsoft-power-bi.svg" />
@@ -52,6 +57,8 @@ Welcome to my GITHUB
 <img align="left" alt="Pandas" width="35px" src="https://github.com/gilbarbara/logos/blob/main/logos/pandas-icon.svg" />
 <img align="left" alt="Matplotlib" width="55px" src="https://github.com/gilbarbara/logos/blob/main/logos/matplotlib-icon.svg" />
 <img align="left" alt="Seaborn" width="55px" src="https://github.com/gilbarbara/logos/blob/main/logos/seaborn-icon.svg" />
+<br/>
+<br>
 <br/>
 <br>
 
